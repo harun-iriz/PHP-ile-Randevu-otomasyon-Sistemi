@@ -5,8 +5,8 @@
 class VT{
 
     var $sunucu="localhost";
-    var $user="haruniriz";
-    var $password="harunrandevu123!";
+    var $user="";
+    var $password="";
     var $dbname="yonetimpaneli";
     var $baglanti;
 

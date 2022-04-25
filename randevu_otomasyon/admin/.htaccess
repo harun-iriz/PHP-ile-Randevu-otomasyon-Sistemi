@@ -1,0 +1,6 @@
+
+Options -indexes
+RewriteEngine On
+RewriteBase /admin/
+RewriteRule ^liste/(.*)$ index.php?sayfa=liste&tablo=$1 [NC]
+RewriteRule ^giris-yap$ login.php [NC]

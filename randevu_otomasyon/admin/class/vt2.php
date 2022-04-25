@@ -1,8 +1,8 @@
 <?php
 
 $sunucu="localhost";
-$user="haruniriz";
-$password="harunrandevu123!";
+$user="";
+$password="";
 $dbname="yonetimpaneli";
 
 try{
